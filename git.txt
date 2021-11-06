@@ -1,0 +1,52 @@
+gitfurka@LAPTOP-H6NRTGGI MINGW64 ~
+$ git config --global user.name "furkan"
+                                                             =Tek seferlik isim ve email kaydetme
+furka@LAPTOP-H6NRTGGI MINGW64 ~                            
+$ git config --global user.email "furkangok270@gmail.com"
+
+---------------------------------------------------------
+
+GİT NOTLAR
+----------
+
+pwd =Hangi dizi komutunda olduğunu gösterir.
+
+ls =Dizideki dosyaları gösterir.
+
+cd.. =Bir önceki diziye geçer.
+
+cd desktop/deneme =cd komutuyla gitmek istediğimiz diziye gitmek için.
+
+git init =Dizideki dosyaları eklemek için.
+
+git add . =Şuanki diziye eklemek için
+
+git commit -m "ilk commit" =projenin kopyasını oluşturmak için
+
+git log = Önceden kaydettiğin kopyaları listeliyor.
+
+git diff =Sonradan değiştirdiğimiz(kopyalamadığımız)şeyleri tamamıyla göstermek için.
+
+git diff --staged =Geçiş bölgesiyle depo arasındaki farklılıkları göstermek için.
+
+----------------------------------------------------
+
+KOPYA OLUŞTURMAK İÇİN
+---------------------
+
+1.git add git.txt
+
+2.git commit -m "edited"
+
+3.git log =Kopyalama yaptığımız dosyaları,zamanı,kim tarafından yapıldığını gösterir.
+
+--------------------------------------------------------------------------------------
+
+SİLME İŞLEMLERİ
+---------------
+EĞER DOSYAYI MANUAL DOSYADAN SİLİNİRSE
+
+
+
+
+
